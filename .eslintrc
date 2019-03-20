@@ -1,0 +1,12 @@
+{
+  "extends": "fbjs",
+  "plugins": [
+    "react"
+  ],
+  "rules": {
+    "max-len": [1, {"ignoreTemplateLiterals": true, "ignoreStrings": true}]
+  },
+  "globals": {
+    "Pay": false
+  }
+}
