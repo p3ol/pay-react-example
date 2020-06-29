@@ -28,7 +28,7 @@
     "html-webpack-plugin": "4.3.0",
     "webpack": "4.29.6",
     "webpack-cli": "3.3.0",
-    "webpack-dev-server": "3.2.1"
+    "webpack-dev-server": "3.11.0"
   },
   "dependencies": {
     "@babel/runtime-corejs2": "7.10.3",
