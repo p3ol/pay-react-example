@@ -33,7 +33,7 @@
   "dependencies": {
     "@babel/runtime-corejs2": "7.10.3",
     "history": "5.0.0",
-    "popper.js": "1.14.7",
+    "popper.js": "1.16.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-router-dom": "5.0.0"
